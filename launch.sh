@@ -1,2 +1,2 @@
 #!usr/bin/bash 
-python filter_data_meteo.py
+python test_interface.py
