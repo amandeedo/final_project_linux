@@ -19,6 +19,6 @@ Vous aurez le choix entre :
 
 NB : entrez la température en float, exemple : 10.0.
 
-\\ Dans le cas échéant où l'interface ne se déploie pas, vous pourrez avoir accès aux mêmes fonctionnalités en écrivant en ligne de commande : python -m filter_data_meteo.py ! 
+#### Dans le cas échéant où l'interface ne se déploie pas, vous pourrez avoir accès aux mêmes fonctionnalités en écrivant en ligne de commande : python -m filter_data_meteo.py ! 
 
 MERCI D'AVANCE !! : - ) 
